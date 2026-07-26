@@ -68,3 +68,24 @@ The dataset contains information about orders, products, customers, occasions, r
 - Dashboard Design
 - Business Analysis
 - Data Visualization
+
+  ## 📄 Project Files
+
+- Excel Sales Analysis Dashboard.xlsx
+- Customers.csv
+- Orders.csv
+- Products.csv
+- Problem_Statement.pdf
+
+## 👩‍💻 Author
+
+**Sanjana Sangyam**
+
+---
+
+## Acknowledgement
+
+This project was completed as part of my learning journey in Data Analytics. I followed a guided tutorial by **WSCube Tech** to learn Excel dashboard creation and implemented the project while practicing Power Query, Pivot Tables, Pivot Charts, and dashboard design.
+
+Tutorial Reference:
+[https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://www.youtube.com/watch?v=Wom-eVrE4RY&t=4375s)
