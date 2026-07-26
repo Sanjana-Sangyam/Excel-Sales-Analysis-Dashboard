@@ -50,7 +50,7 @@ The dashboard answers the following business questions:
 
 ## 📷 Dashboard Preview
 
-![Dashboard](Images/dashboard.png)
+![Dashboard](Images/Dashboard.png)
 
 ---
 
